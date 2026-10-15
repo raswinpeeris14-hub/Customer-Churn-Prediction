@@ -1,4 +1,4 @@
-# Customer-Churn-Prediction
+# Customer Churn Predictive Analysis
 Machine learning project for predicting customer churn using Python and scikit-learn.
 
 ## Project Overview
